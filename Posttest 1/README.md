@@ -46,6 +46,6 @@ Pengujian ada di bagian main code. Saat program di run hasilnya seperti ini:
 - `AlatMusik.ubah_nama_toko(...)`: nama toko berubah menjadi "Hearts Music Store"
 - `Transaksi.hitung_total(100000, 3)`: hasilnya 300000
 - `Alat2.stok = -5`: muncul pesan "Stok Tidak Boleh Minus!", stok tidak berubah
-- `Pembeli1.no_hp = "0813"`: muncul pesan "Nomor Telepon Minimal 11 Angka!", nomor tidak berubah
+- `Pembeli1.no_hp = "0813"`: muncul pesan "Nomor Telepon Minimal 11 Digit!", nomor tidak berubah
 - Transaksi 1 (2 gitar, bayar Rp 2.000.000): total Rp 1.700.000, kembalian Rp 300.000
 - Transaksi 2 (1 keyboard, bayar Rp 3.000.000): total Rp 2.500.000, kembalian Rp 500.000
