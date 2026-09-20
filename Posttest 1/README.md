@@ -18,13 +18,13 @@ Program ini adalah toko yang menjual alat musik dengan transaksi yang dilakukan 
 - Instance method: `kurangi_stok()`, `tambah_stok()`, `info()`
 - Class method: `ubah_nama_toko()`
 
-**2. Pembeli** (data pembeli)
+**2. Pembeli**
 
 - Atribut kelas: `total_pembeli`
 - Atribut public: `id_pembeli`, `nama`
 - Atribut private: `__no_hp`
 
-**3. Transaksi** (catatan pembelian)
+**3. Transaksi**
 
 - Atribut kelas: `total_transaksi`
 - Atribut public: `id_transaksi`, `tanggal`, `pembeli`, `alat`, `jumlah`, `total_harga`, `uang_bayar`, `kembalian`
