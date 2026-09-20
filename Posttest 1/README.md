@@ -22,7 +22,7 @@ Program ini adalah toko yang menjual alat musik dengan transaksi yang dilakukan 
 
 - Atribut kelas: `total_pembeli`
 - Atribut public: `id_pembeli`, `nama`
-- Atribut private: `__no_hp` (getter/setter `no_hp`, minimal 11 angka)
+- Atribut private: `__no_hp`
 
 **3. Transaksi** (catatan pembelian)
 
