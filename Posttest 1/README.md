@@ -31,12 +31,6 @@ Program ini adalah toko yang menjual alat musik dengan transaksi yang dilakukan 
 - Instance method: `cetak_struk()`
 - Static method: `hitung_total()`
 
-## Cara Menjalankan
-
-```bash
-python posttest1_2509106078_AnnisaNurRaidah.py
-```
-
 ## Pengujian
 
 Pengujian ada di bagian main code. Saat program di run hasilnya seperti ini:
