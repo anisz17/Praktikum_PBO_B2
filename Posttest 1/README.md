@@ -42,8 +42,8 @@ Pengujian ada di bagian main code. Saat program di run hasilnya seperti ini:
 - `Transaksi.hitung_total(100000, 3)`: hasilnya 300000
 - `alat2.stok = 10`: "Stok keyboard Berhasil Diubah Menjadi: 10"
 - `alat2.stok = -5`: "Stok Keyboard Tidak Boleh Minus!", stok tetap 10
-- `pembeli1.no_telp = "08123456789"`: diterima, nomor telepon Carmen berubah
-- `pembeli1.no_telp = "0813"`: "Nomor Telepon Carmen Minimal 11 Digit!"
+- `pembeli1.no_telp = "08123456789"`: nomor telepon Carmen berhasil berubah
+- `pembeli1.no_telp = "0813"`: "Nomor Telepon Minimal 11 Digit!"
 - transaksi1 (2 Gitar, bayar Rp 2.000.000): total Rp 1.700.000, kembalian Rp 300.000, stok Gitar menjadi 13
 - transaksi2 (1 Keyboard, bayar Rp 3.000.000): total Rp 2.500.000, kembalian Rp 500.000, stok Keyboard menjadi 9
 - `Stok Gitar:` 13, `Stok Keyboard:` 9
